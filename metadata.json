@@ -1,0 +1,6 @@
+{
+  "name": "차세대 ITS 다목적 LPR 카메라 기술 가이드 & 시뮬레이터",
+  "description": "지능형 교통 시스템(ITS) 다목적 LPR 카메라 기술 표준, 셔터/조리개/IR 광학 시뮬레이터, 반응 지연 물리 계산기 및 상용 모델 비교 분석 포털",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
